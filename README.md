@@ -25,7 +25,7 @@
 ## How to reach me
 
 * felipe_jean80@hotmail.com
-<a href="https://linkedin.com/in/juliano-nicocelli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juliano Nicocelli LinkedIn Profile"/>
+* <a href="https://linkedin.com/in/jeanfcf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jean Coelho LinkedIn Profile"/>
 
 ## Fun fact
 
